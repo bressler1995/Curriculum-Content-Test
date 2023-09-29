@@ -41,25 +41,45 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### [Lesson 1](./Lesson_1)
 
-* Lesson Overview and Objectives
-* Lesson 1 Summary
+* [Lesson Overview and Objectives](./Lesson_1#lesson-overview-and-objectives)
+* [Section Title 1](./Lesson_1#section-title-1)
+* [Section Title 2](./Lesson_1#section-title-2)
+* [Section Title 3](./Lesson_1#section-title-3)
+* [Section Title 3](./Lesson_1#section-title-4)
+* [Lesson 1 Summary](./Lesson_1#lesson-1-summary)
 
 ### [Lesson 2](./Lesson_2)
 
-* Lesson Overview and Objectives
-* Lesson 2 Summary
+* [Lesson Overview and Objectives](./Lesson_2#lesson-overview-and-objectives)
+* [Section Title 1](./Lesson_2#section-title-1)
+* [Section Title 2](./Lesson_2#section-title-2)
+* [Section Title 3](./Lesson_2#section-title-3)
+* [Section Title 3](./Lesson_2#section-title-4)
+* [Lesson 2 Summary](./Lesson_2#lesson-2-summary)
 
 ### [Lesson 3](./Lesson_3)
 
-* Lesson Overview and Objectives
-* Lesson 3 Summary
+* [Lesson Overview and Objectives](./Lesson_3#lesson-overview-and-objectives)
+* [Section Title 1](./Lesson_3#section-title-1)
+* [Section Title 2](./Lesson_3#section-title-2)
+* [Section Title 3](./Lesson_3#section-title-3)
+* [Section Title 3](./Lesson_3#section-title-4)
+* [Lesson 3 Summary](./Lesson_3#lesson-3-summary)
 
 ### [Lesson 4](./Lesson_4)
 
-* Lesson Overview and Objectives
-* Lesson 4 Summary
+* [Lesson Overview and Objectives](./Lesson_4#lesson-overview-and-objectives)
+* [Section Title 1](./Lesson_4#section-title-1)
+* [Section Title 2](./Lesson_4#section-title-2)
+* [Section Title 3](./Lesson_4#section-title-3)
+* [Section Title 3](./Lesson_4#section-title-4)
+* [Lesson 4 Summary](./Lesson_4#lesson-4-summary)
 
 ### [Lesson 5](./Lesson_5)
 
-* Lesson Overview and Objectives
-* Lesson 5 Summary
+* [Lesson Overview and Objectives](./Lesson_5#lesson-overview-and-objectives)
+* [Section Title 1](./Lesson_5#section-title-1)
+* [Section Title 2](./Lesson_5#section-title-2)
+* [Section Title 3](./Lesson_5#section-title-3)
+* [Section Title 3](./Lesson_5#section-title-4)
+* [Lesson 4 Summary](./Lesson_5#lesson-5-summary)
