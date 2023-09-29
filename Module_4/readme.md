@@ -45,8 +45,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 1](./Lesson_1#section-title-1)
 * [Section Title 2](./Lesson_1#section-title-2)
 * [Section Title 3](./Lesson_1#section-title-3)
-* [Section Title 3](./Lesson_1#section-title-4)
+* [Section Title 4](./Lesson_1#section-title-4)
 * [Lesson 1 Summary](./Lesson_1#lesson-1-summary)
+* [Lesson 1 Knowledge Check](./Lesson_1#knowledge-check)
 
 ### [Lesson 2](./Lesson_2)
 
@@ -54,8 +55,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 1](./Lesson_2#section-title-1)
 * [Section Title 2](./Lesson_2#section-title-2)
 * [Section Title 3](./Lesson_2#section-title-3)
-* [Section Title 3](./Lesson_2#section-title-4)
+* [Section Title 4](./Lesson_2#section-title-4)
 * [Lesson 2 Summary](./Lesson_2#lesson-2-summary)
+* [Lesson 2 Knowledge Check](./Lesson_2#knowledge-check)
 
 ### [Lesson 3](./Lesson_3)
 
@@ -63,8 +65,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 1](./Lesson_3#section-title-1)
 * [Section Title 2](./Lesson_3#section-title-2)
 * [Section Title 3](./Lesson_3#section-title-3)
-* [Section Title 3](./Lesson_3#section-title-4)
+* [Section Title 4](./Lesson_3#section-title-4)
 * [Lesson 3 Summary](./Lesson_3#lesson-3-summary)
+* [Lesson 3 Knowledge Check](./Lesson_3#knowledge-check)
 
 ### [Lesson 4](./Lesson_4)
 
@@ -72,8 +75,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 1](./Lesson_4#section-title-1)
 * [Section Title 2](./Lesson_4#section-title-2)
 * [Section Title 3](./Lesson_4#section-title-3)
-* [Section Title 3](./Lesson_4#section-title-4)
+* [Section Title 4](./Lesson_4#section-title-4)
 * [Lesson 4 Summary](./Lesson_4#lesson-4-summary)
+* [Lesson 4 Knowledge Check](./Lesson_4#knowledge-check)
 
 ### [Lesson 5](./Lesson_5)
 
@@ -81,5 +85,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 1](./Lesson_5#section-title-1)
 * [Section Title 2](./Lesson_5#section-title-2)
 * [Section Title 3](./Lesson_5#section-title-3)
-* [Section Title 3](./Lesson_5#section-title-4)
+* [Section Title 4](./Lesson_5#section-title-4)
 * [Lesson 5 Summary](./Lesson_5#lesson-5-summary)
