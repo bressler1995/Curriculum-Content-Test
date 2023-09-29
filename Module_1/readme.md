@@ -82,4 +82,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 2](./Lesson_5#section-title-2)
 * [Section Title 3](./Lesson_5#section-title-3)
 * [Section Title 3](./Lesson_5#section-title-4)
-* [Lesson 4 Summary](./Lesson_5#lesson-5-summary)
+* [Lesson 5 Summary](./Lesson_5#lesson-5-summary)
