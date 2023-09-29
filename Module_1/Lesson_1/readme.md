@@ -35,3 +35,26 @@ In this lesson, you learned:
 * Est ultricies integer quis auctor elit.
 * Volutpat blandit aliquam etiam erat velit scelerisque in.
 * Dignissim suspendisse in est ante in nibh mauris.
+
+## Knowledge Check
+
+### Lorem ipsum dolor sit amet? (1/3)
+
+&#9745; Tortor consequat id porta nibh venenatis
+&#9745; At volutpat diam ut venenatis
+&#9745; Eget dolor morbi
+&#9745; Nunc mi ipsum faucibus vitae
+
+### Lorem ipsum dolor sit amet? (2/3)
+
+&#9745; Tortor consequat id porta nibh venenatis
+&#9745; At volutpat diam ut venenatis
+&#9745; Eget dolor morbi
+&#9745; Nunc mi ipsum faucibus vitae
+
+### Lorem ipsum dolor sit amet? (3/3)
+
+&#9745; Tortor consequat id porta nibh venenatis
+&#9745; At volutpat diam ut venenatis
+&#9745; Eget dolor morbi
+&#9745; Nunc mi ipsum faucibus vitae
