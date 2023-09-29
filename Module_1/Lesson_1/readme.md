@@ -1,7 +1,7 @@
 # Lesson 1
 
 ## Navigation
-* [Lesson Overview and Objectives](./Lesson_1#lesson-overview-and-objectives)
+* [Lesson Overview and Objectives](#lesson-overview-and-objectives)
 * [Section Title 1](#section-title-1)
 * [Section Title 2](#section-title-2)
 * [Section Title 3](#section-title-3)
