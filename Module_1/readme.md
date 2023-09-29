@@ -47,6 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 3](./Lesson_1#section-title-3)
 * [Section Title 3](./Lesson_1#section-title-4)
 * [Lesson 1 Summary](./Lesson_1#lesson-1-summary)
+* Lesson 1 Knowledge Check
 
 ### [Lesson 2](./Lesson_2)
 
@@ -56,6 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 3](./Lesson_2#section-title-3)
 * [Section Title 3](./Lesson_2#section-title-4)
 * [Lesson 2 Summary](./Lesson_2#lesson-2-summary)
+* Lesson 2 Knowledge Check
 
 ### [Lesson 3](./Lesson_3)
 
@@ -65,6 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 3](./Lesson_3#section-title-3)
 * [Section Title 3](./Lesson_3#section-title-4)
 * [Lesson 3 Summary](./Lesson_3#lesson-3-summary)
+* Lesson 3 Knowledge Check
 
 ### [Lesson 4](./Lesson_4)
 
@@ -74,6 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * [Section Title 3](./Lesson_4#section-title-3)
 * [Section Title 3](./Lesson_4#section-title-4)
 * [Lesson 4 Summary](./Lesson_4#lesson-4-summary)
+* Lesson 4 Knowledge Check
 
 ### [Lesson 5](./Lesson_5)
 
