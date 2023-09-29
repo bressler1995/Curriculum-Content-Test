@@ -5,7 +5,7 @@
 * [Section Title 1](#section-title-1)
 * [Section Title 2](#section-title-2)
 * [Section Title 3](#section-title-3)
-* [Section Title 3](#section-title-4)
+* [Section Title 4](#section-title-4)
 * [Lesson 1 Summary](#lesson-1-summary)
 * [Lesson 1 Knowledge Check](#knowledge-check)
 

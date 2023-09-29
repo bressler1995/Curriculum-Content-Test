@@ -1,5 +1,14 @@
 # Lesson 2
 
+## Navigation
+* [Lesson Overview and Objectives](#lesson-overview-and-objectives)
+* [Section Title 1](#section-title-1)
+* [Section Title 2](#section-title-2)
+* [Section Title 3](#section-title-3)
+* [Section Title 4](#section-title-4)
+* [Lesson 2 Summary](#lesson-2-summary)
+* [Lesson 2 Knowledge Check](#knowledge-check)
+
 ## Lesson Overview and Objectives
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
