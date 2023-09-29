@@ -1,5 +1,14 @@
 # Lesson 3
 
+## Navigation
+* [Lesson Overview and Objectives](#lesson-overview-and-objectives)
+* [Section Title 1](#section-title-1)
+* [Section Title 2](#section-title-2)
+* [Section Title 3](#section-title-3)
+* [Section Title 4](#section-title-4)
+* [Lesson 3 Summary](#lesson-3-summary)
+* [Lesson 3 Knowledge Check](#knowledge-check)
+
 ## Lesson Overview and Objectives
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -35,3 +44,35 @@ In this lesson, you learned:
 * Est ultricies integer quis auctor elit.
 * Volutpat blandit aliquam etiam erat velit scelerisque in.
 * Dignissim suspendisse in est ante in nibh mauris.
+
+## Knowledge Check
+
+### Lorem ipsum dolor sit amet? (1/3)
+
+&#9745; Tortor consequat id porta nibh venenatis
+
+&#9745; At volutpat diam ut venenatis
+
+&#9745; Eget dolor morbi
+
+&#9745; Nunc mi ipsum faucibus vitae
+
+### Lorem ipsum dolor sit amet? (2/3)
+
+&#9745; Tortor consequat id porta nibh venenatis
+
+&#9745; At volutpat diam ut venenatis
+
+&#9745; Eget dolor morbi
+
+&#9745; Nunc mi ipsum faucibus vitae
+
+### Lorem ipsum dolor sit amet? (3/3)
+
+&#9745; Tortor consequat id porta nibh venenatis
+
+&#9745; At volutpat diam ut venenatis
+
+&#9745; Eget dolor morbi
+
+&#9745; Nunc mi ipsum faucibus vitae
